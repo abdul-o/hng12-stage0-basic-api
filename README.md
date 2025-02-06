@@ -18,3 +18,6 @@ This is a simple JavaScript-based public API that returns the following informat
   "current_datetime": "2025-02-06T11:08:54.033Z",
   "github_url": "https://github.com/abdul-o/hng12-stage0-basic-api"
 }
+**Backlink**
+This project uses JavaScript. For more information about JavaScript developers, visit:
+https://hng.tech/hire/javascript-developers
